@@ -1,0 +1,1 @@
+Applying multi edits to App.jsx: add initialUsers, users/transactions state, persistence effects, and helper functions for register/social login/reserve/export.
